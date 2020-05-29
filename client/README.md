@@ -1,7 +1,7 @@
 ## Streams app boilerplate
 
 This project is a boilerplate project for a streaming app that can be used in many other purposes.
-App build on Stephen Grider's React course.
+App built on Stephen Grider's React course.
 
 In order to run this app you need to use a client id of google auth2 api from your google developer account (in components/GoogleAuth.js file).
 Then you need to create a json file in "api-server" folder named "db.json".
